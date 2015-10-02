@@ -35,6 +35,7 @@ In order to be able to use layer_checker_v2, the KafNafParser - which is require
 - In order to run layer_checker_v2.py, you must go to the folder (downloaded repository) of the the             layer_checker_v2 Place the file(s) that you want to proces with the script in the input folder:
             
             cp /original_folder/sample_naf_file.naf /folder_where_the_repository_is/layer_checker_v2/input/
+or
             mv /original_folder/sample_naf_file.naf /folder_where_the_repository_is/layer_checker_v2/input/
 
 - Then go to the main folder of the repository 
