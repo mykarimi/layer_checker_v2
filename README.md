@@ -11,5 +11,5 @@ In order to be able to use the layer, the KafNafParser must be set to the rigcht
 - Open the script with a texteditor (sublime text 3, gedit, or any other)
 - Go to line 22 and find
 
-            - sys.path.append('/locaton/of/my/KafNafParser')
-            - from KafNafParserMod import *
+            22 sys.path.append('/locaton/of/my/KafNafParser')
+            23 from KafNafParserMod import *
